@@ -1,5 +1,5 @@
 module.exports = {
-    token: "ODAyMzQyNTI2NDMzODg2MjE4.YAt1tQ.QKFvCHtXMCij-bgUZsffoGzIg3U",
+    token: " ",
     prefix: "$",
     admins: [
         "684080914330026002"
